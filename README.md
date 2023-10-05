@@ -9,8 +9,7 @@ This is a solution to the [Results summary component challenge on Frontend Mento
 
 ### Links
 
-- Solution URL: [](https://github.com/vorrio/results-summary-component)
-- Live Site URL: [](https://vorrio.github.io/results-summary-component/)
+- Live Site URL: [Live Site](https://vorrio.github.io/results-summary-component/)
 
 ## Built with
 
